@@ -1,0 +1,19 @@
+<style>
+    .input-label {
+        padding: 10px;
+        display: inline-block;
+        background-color: blueviolet;
+    }
+
+    .input-field {
+        padding: 5px;
+        margin-bottom: 5px;
+        display: block;
+        background-color: rgb(8, 237, 104);
+    }
+
+    h3, p, h2 {
+        padding: 10px;
+
+    }
+</style>
